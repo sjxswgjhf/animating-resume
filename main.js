@@ -410,7 +410,7 @@ function structureResume() {
     $('<div class="project"></div>').append($(element), $('#paper > p').first(), $('#paper > ul').first()).appendTo($('#works'))
   })
   $('#skills').append($('h2:contains("Skills")')).each((index, element) => {
-    $('<div class="skill"></div>').append($(element,),$('#paper > p').first(), $('#paper > ul').first()).appendTo($('#works'))
+    $('<div class="skill"></div>').append($(element),$('#paper > p').first(), $('#paper > ul').first()).appendTo($('#works'))
   })
   $('a[href="./images/qrcode.png"]').addClass('qrcode-trigger').append($('img.qrcode'))
 }
