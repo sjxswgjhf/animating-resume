@@ -66,7 +66,7 @@ Oct 2018 - Present
 `
 
 let code_ready = `/*
- * Hi，I'm Jiaxin Sun。
+ * Hi，I'm Jiaxin Sun.
  * I want to use code to show you my resume～
  * idea link：http://strml.net
  * 
