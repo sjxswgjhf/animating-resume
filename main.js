@@ -41,6 +41,11 @@ Oct 2018 - Present
 - Use Hibernate framework to imporve the database communication efficiency
 - Develope client side by JavaScript and Boostrap
 
+### Full Stack Application: Personal Website
+- Design and Develop a Full Stack Personal Website
+- Utilize Angular, Node JS, MongoDB to develop frontend and backend
+- [website link](http://www.williamsjx.com)
+
 ### JAVA Application: Regio Vinco Map Editor
 - Build a Java application to produce a country map which is used by Regio Vinco quizzing game.
 - Utilize JavaFX to render the views and build the interface
@@ -56,6 +61,11 @@ Oct 2018 - Present
 - A hot mobile game clone developed by Android Studio
 - Utilize LibGDX framework to design and develop the game
 - Graph Design and Functionality develop to solve problems
+
+### C Application: Dynamic Memory Allocator
+- Allows users to manage memory on the heap and monitor current status of the heap
+- Implements a set of standard functions with explicit free list; resolves fragmentations by proper padding and alignments
+- Applies immediate coalescing to free blocks and utilizes first-fit strategy to search for free blocks
 
 ## Skills & Awards
 - Java, Python, JavaScript, SQL, Spring MVC, Hibernate, HTML, CSS, Angular, Node JS, Mongo DB, React JS
@@ -106,7 +116,7 @@ body {
  * to make them look like "breathing" 
  */
 .breathe {
-  animation: breathe 3s ease 0s infinite;
+  animation: breathe 1.5s ease 0s infinite;
 }
 
 
