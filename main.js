@@ -297,17 +297,17 @@ $('#speed_btn').click(() => {
     case 1:
       speed_status.innerText = '🚲'
       description.innerText = 'Speed Control~~'
-      duration = 70
+      duration = 30
       break
     case 2:
       speed_status.innerText = '🚗'
       description.innerText = 'Speed Control~~'
-      duration = 30
+      duration = 0
       break
     case 3:
       speed_status.innerText = '🚀'
       description.innerText = 'Speed Control~~'
-      duration = 0
+      duration = -100
       break
     default:
       return 0
