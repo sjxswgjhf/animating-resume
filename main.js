@@ -33,7 +33,7 @@ Oct 2018 - Present
 - A Markdown resume creating process.
 - Utilized JS Promise to solve asynchronous operations
 - Use CSS3 to improve Interface
-- [code link](https://github.com/Caijialinxx/animating-resume/blob/master/main.js) | [preview link](https://caijialinxx.github.io/animating-resume/)
+- [code link](https://github.com/Caijialinxx/animating-resume/blob/master/main.js) | [preview link](https://sjxswgjhf.github.io/animating-resume/)
 
 ### J2EE Application: Mini-Spotify Website
 - Designe and developed a full stack traditional J2EE application
